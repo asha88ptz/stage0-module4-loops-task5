@@ -4,7 +4,6 @@ import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
 class HourglassTest extends BaseIOTest {
-
     @Test
     void printHourglassOfGivenSizePrintsHourglass() {
         String expected = "88888\n" +
